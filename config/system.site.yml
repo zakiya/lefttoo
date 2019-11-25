@@ -1,0 +1,14 @@
+uuid: 08cbf167-c06e-4829-920f-4981d7c57d8d
+name: lefttoo
+mail: zakiya@chapterthree.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
