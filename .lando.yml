@@ -1,0 +1,6 @@
+name: lefttoo
+recipe: drupal8
+config:
+  webroot: web
+  php: '7.3'
+  database: mariadb
